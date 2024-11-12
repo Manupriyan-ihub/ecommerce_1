@@ -9,15 +9,15 @@ export const registerFormControls = [
     {
         name:"email",
         label:"Email",  
-        placeholder:"enter your email",
+        placeholder:"Enter your email",
         componentType:"input",
         type:"email"
     },
     {
-        name:"Username",
-        label:"User Name",  
-        placeholder:"entrer your user name",
+        name:"password",
+        label:"password",  
+        placeholder:"Enter your password",
         componentType:"input",
-        type:"text"
+        type:"password"
     },
 ]
